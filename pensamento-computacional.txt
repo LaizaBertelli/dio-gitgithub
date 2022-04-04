@@ -1,0 +1,84 @@
+VISÃO GERAL DO PENSAMENTO COMPUTACIONAL
+
+  OBJETIVO DO CURSO: Você será capaz de entender o que significa pensar computacionalmente. Pensamento aplicável à qualquer área do conhecimento. Você será capaz de resolver qualquer problema de uma maneira mais objetiva e eficiente.
+
+  PENSAMENTO COMPUTACIONAL
+    Refere-se  ao processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritmos que podem ser implementados no computador. (Aho, 2011; Lee, 2016);
+
+    Habilidade de formulação de problemas e resolução do mesmo -> Sistemático e eficiente.
+    Deve ser aplicado de maneira que o ser humano e a máquina possam entender;
+
+    Dividir um problema complexo em subproblemas.
+    Explorar o conceito do problema para uma forma generalista.
+    Automatizar: Definir passo a passo a solução de um problema.
+
+    DECOMPSIÇÃO -> RECONHECIMENTO DE PADRÕES -> ABSTRAÇÃO -> DESIGN DE ALGORITMOS 
+
+    Processo Contínuo -> Definir, testar e aperfeiçoar.
+
+    Habilidades Complementares
+
+    Raciocínio lógico é uma forma de pensamento estruturado, ou raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema;
+
+    INDUÇÃO, DEDUÇÃO E ABDUÇÃO;
+
+    Dado um fenômeno deduz-se leis e teorias
+    Dado uma lei e uma teoria deduz-se previsões e explicações
+    Dado uma conclusão deduz-se uma premissa (Processo investigativo)
+
+    APERFEIÇOAMENTO:
+      Encontrar solução eficiente
+      Otimizar processos
+      Simplificar linhas de códigos
+      Funções bem definidas
+
+  PILARES DO PENSAMENTO COMPUTACIONAL
+
+    DECOMPISUÇÃO
+      Primeiro passo da resolução de problemas dentro do conceito de pensamento computacional.
+      1 -> Análise
+      2 -> Síntese
+      
+  PADRÕES - RECONHECIMENTO DE PADRÕES
+    Modelo base
+    Estrutura invariante
+    Repetição
+
+    Por que determinar padrões? Generelizar, com o objetivo de obter resoluções para problemas diferentes.
+
+  Representação de atributos
+  Aprendizado - conceito associado ao objeto 
+  Armazenar dados
+  Regras de decisão 
+
+
+  Classificação de dados
+  Reconhecimento de imagem 
+  Reconhecimento de fala
+  Análise de cenas 
+  Classificação de documentos
+
+  ABSTRAÇÃO - Generalizar/Abstrair
+
+    ABSTRAIR - Observar, um ou mais elementos, avaliando características e propriedades em separado;
+    ABSTRAÇÃO - Processo intelectual de isolamento de um objeto da realidade;
+
+  ALGORITMOS
+    Análise
+    Algoritmo 
+    Codificação 
+
+    O algoritmo é codificado de acordo com a linguagem de programação escolhida
+
+  Como construir um algoritmo?
+    Compreenção do problema
+    Definição dos dados de entrada 
+    Definir processamento 
+    Definir dados de saída 
+    Utilizar um método de construção 
+    Teste e diagnóstico
+
+
+  ESTUDO DE CASO 
+
+  
